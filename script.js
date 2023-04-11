@@ -33,8 +33,7 @@
 
 
 
-
-class Animal {
+  class Animal {
   constructor(species) {
     this._species = species;
   }
